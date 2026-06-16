@@ -20,9 +20,9 @@ about systems that stay reliable over months than demos that look good for an af
       <a href="https://longmem.dev"><img src="assets/longmem.png" width="100%" alt="LongMem"></a>
     </td>
     <td width="50%" valign="top">
-      <strong>RememberOS</strong> — Organizational memory OS<br>
+      <a href="https://rememberos.ai"><strong>RememberOS</strong></a> — Organizational memory OS<br>
       <sub>Your organization remembers everything. Humans decide what matters, agents remember it — sovereign, European, self-hostable. Built in the EU by 11data.</sub><br><br>
-      <img src="assets/rememberos.png" width="100%" alt="RememberOS">
+      <a href="https://rememberos.ai"><img src="assets/rememberos.png" width="100%" alt="RememberOS"></a>
     </td>
   </tr>
   <tr>
@@ -32,9 +32,9 @@ about systems that stay reliable over months than demos that look good for an af
       <a href="https://cc.11data.ai"><img src="assets/check-and-care.png" width="100%" alt="Check & Care"></a>
     </td>
     <td width="50%" valign="top">
-      <strong>TranscriptDrop</strong> — Audio to inbox<br>
+      <a href="https://transcriptdrop.com"><strong>TranscriptDrop</strong></a> — Audio to inbox<br>
       <sub>Record voice memos or upload audio — transcripts delivered to your inbox as text + AI summary PDF. Files auto-delete after 60 minutes. No app, no login, no storage.</sub><br><br>
-      <img src="assets/transcriptdrop.png" width="100%" alt="TranscriptDrop">
+      <a href="https://transcriptdrop.com"><img src="assets/transcriptdrop.png" width="100%" alt="TranscriptDrop"></a>
     </td>
   </tr>
 </table>
