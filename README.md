@@ -6,6 +6,8 @@ My focus is the unglamorous layer that makes agents actually useful in productio
 memory, a documentation-first way of working, and the tooling around the loop. I care more
 about systems that stay reliable over months than demos that look good for an afternoon.
 
+*Concepts were always the easy part. Building them wasn't — so I built the infrastructure to close that gap.*
+
 ---
 
 ### Products
