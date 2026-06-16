@@ -27,6 +27,14 @@ about systems that stay reliable over months than demos that look good for an af
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://runyouragent.com"><strong>RunYourAgent</strong></a> — Private AI infrastructure<br>
+      <sub>Deploy AI agents on your own dedicated, encrypted EU server. Zero-trust networking via Tailscale, LUKS encryption, BYOK. No shared infrastructure, no data access — not even ours.</sub><br><br>
+      <a href="https://runyouragent.com"><img src="assets/runyouragent.png" width="100%" alt="RunYourAgent"></a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <a href="https://cc.11data.ai"><strong>Check & Care</strong></a> — Precision maintenance<br>
       <sub>Digitizes coolant management for Rhenus Fluid Management — TRGS 611 testing, consumption analytics, KSS management, all in one platform.</sub><br><br>
       <a href="https://cc.11data.ai"><img src="assets/check-and-care.png" width="100%" alt="Check & Care"></a>
