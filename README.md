@@ -8,17 +8,42 @@ about systems that stay reliable over months than demos that look good for an af
 
 ---
 
-### What I'm building
+### Products
 
-**[longmem.dev](https://longmem.dev)** — production long-term memory for AI agents.  
-Store, recall, and search across agent memory with a single API. Hybrid semantic + keyword
-search, multi-collection tenant model, MCP-native. Open SDK at
-**[longmem-sdk](https://github.com/11data/longmem-sdk)** · OSS reference at
-**[longmem-oss](https://github.com/jonameron/longmem-oss)**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://longmem.dev"><strong>LongMem</strong></a> — AI agent memory &nbsp;·&nbsp; <em>Public Beta</em><br>
+      <sub>Give your agents perfect recall. Store, recall, and search long-term memories over a single API. Hybrid vector + keyword search, multi-tenant, MCP-native.</sub><br><br>
+      <a href="https://longmem.dev"><img src="assets/longmem.png" width="100%" alt="LongMem"></a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>RememberOS</strong> — Organizational memory OS<br>
+      <sub>Your organization remembers everything. Humans decide what matters, agents remember it — sovereign, European, self-hostable. Built in the EU by 11data.</sub><br><br>
+      <img src="assets/rememberos.png" width="100%" alt="RememberOS">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://cc.11data.ai"><strong>Check & Care</strong></a> — Precision maintenance<br>
+      <sub>Digitizes coolant management for Rhenus Fluid Management — TRGS 611 testing, consumption analytics, KSS management, all in one platform.</sub><br><br>
+      <a href="https://cc.11data.ai"><img src="assets/check-and-care.png" width="100%" alt="Check & Care"></a>
+    </td>
+    <td width="50%" valign="top">
+      <strong>TranscriptDrop</strong> — Audio to inbox<br>
+      <sub>Record voice memos or upload audio — transcripts delivered to your inbox as text + AI summary PDF. Files auto-delete after 60 minutes. No app, no login, no storage.</sub><br><br>
+      <img src="assets/transcriptdrop.png" width="100%" alt="TranscriptDrop">
+    </td>
+  </tr>
+</table>
 
-**[Mira](https://github.com/11data/mira)** — a voice-first agent platform.  
+---
+
+### Platform & methodology
+
+**[Mira](https://github.com/11data/mira)** — voice-first agent platform.  
 Mobile PWA and Telegram in one shared session, with a natural-conversation Pipecat voice
-pipeline, modular agent routing, and longmem-backed memory. Self-building: a harness loop
+pipeline, modular agent routing, and LongMem-backed memory. Self-building: a harness loop
 drives the agent autonomously and gets more reliable the more it runs.
 
 **[docs-driven-agents](https://github.com/jonameron/docs-driven-agents)** — the methodology.  
